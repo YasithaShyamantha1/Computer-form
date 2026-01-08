@@ -1,0 +1,93 @@
+
+Project Name: Valex - Bootstrap 5 Admin & Dashboard HTML5 Template
+
+Version : V.7
+
+Updated-date:  30th-11-2022 
+
+ 
+ Updates :- 
+
+		1) Changes have been made in the css and scss folders.
+		2) New switcher-style.js file is added.
+		3) Updated switcher.
+		4) Some tables are added.
+		5) New html page is added.
+		6) Some plugins are updated.
+		7) Some js files are changed.
+		8) Documentation is updated.
+
+
+***********************************************************************************************************************************************************************************************
+
+
+----------------------------------------------------------------------
+1) Changes have been made in the css and scss folders.
+----------------------------------------------------------------------
+	1.Please replace scss and css Folders in assets folder.
+	2.transparent-style is totally removed .i.e. style-transparent.scss (Root-path:-assets/scss/layouts).
+	3.plugins styles are separated from style.scss and created plugins.scss file.
+
+Note:-  After replacing above scss file run the gulp command.
+	
+	Please add below link in all html pages
+
+	<link href="../assets/css/plugins.css" rel="stylesheet">
+
+----------------------------------------------------------------------
+2)  New switcher-styles.js file is added.
+----------------------------------------------------------------------
+
+	1.New switcher-styles.js file is created.
+	2.Please add switcher-style.js link in all html pages (i.e. <script src="../assets/js/swither-styles.js"></script>).
+
+----------------------------------------------------------------------
+3) Updated switcher.
+----------------------------------------------------------------------
+	New switcher styles are added Vertical Double Menu and Vertical Double Menu with Tabs.
+
+----------------------------------------------------------------------
+4) Some tables are added and one html page is added.
+----------------------------------------------------------------------
+	Please replace below html page
+		1.table-basic.html
+
+	(Note:- Added tables are Primary table, Secondary table, Success table, Danger table, Warning table & Info table).
+
+----------------------------------------------------------------------
+5) New html page is added.
+----------------------------------------------------------------------
+	Please add below html page
+		1.landing-page.html
+
+----------------------------------------------------------------------
+6)  Some plugins are updated.
+----------------------------------------------------------------------
+	Please replace below plugins folders (Root-path:-assets/plugins/..)
+
+	1.chart.js
+	2.echart
+	3.fullcalendar
+	4.ion-rangeslider
+	5.select2
+	6.jquery-sparkline
+
+----------------------------------------------------------------------
+7)  Some js files are changed.
+----------------------------------------------------------------------
+
+	Please replace below js file (Root-path:-assets/js/..)
+
+	1.apexcharts.js
+	2.custom.js
+	3.themecolor.js
+
+----------------------------------------------------------------------
+8) Docomentation is updated.
+----------------------------------------------------------------------
+	Documentation is Updated please go through it .
+
+
+Thanking you,
+@spruko.
+
